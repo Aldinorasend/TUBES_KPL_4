@@ -1,0 +1,10 @@
+D:\C# Project\TUBESKPL_KELOMPOK4\MenuManager\bin\Debug\MenuManager.exe.config
+D:\C# Project\TUBESKPL_KELOMPOK4\MenuManager\bin\Debug\MenuManager.exe
+D:\C# Project\TUBESKPL_KELOMPOK4\MenuManager\bin\Debug\MenuManager.pdb
+D:\C# Project\TUBESKPL_KELOMPOK4\MenuManager\obj\Debug\MenuManager.csproj.AssemblyReference.cache
+D:\C# Project\TUBESKPL_KELOMPOK4\MenuManager\obj\Debug\MenuManager.csproj.CoreCompileInputs.cache
+D:\C# Project\TUBESKPL_KELOMPOK4\MenuManager\obj\Debug\MenuManager.exe
+D:\C# Project\TUBESKPL_KELOMPOK4\MenuManager\obj\Debug\MenuManager.pdb
+D:\C# Project\TUBESKPL_KELOMPOK4\MenuManager\bin\Debug\OrderProcessing.dll
+D:\C# Project\TUBESKPL_KELOMPOK4\MenuManager\bin\Debug\OrderProcessing.pdb
+D:\C# Project\TUBESKPL_KELOMPOK4\MenuManager\obj\Debug\MenuMana.BB8531A5.Up2Date
