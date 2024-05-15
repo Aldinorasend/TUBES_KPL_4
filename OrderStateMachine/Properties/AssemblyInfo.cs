@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("OrderLibrary")]
+[assembly: AssemblyTitle("OrderStateMachine")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("OrderLibrary")]
+[assembly: AssemblyProduct("OrderStateMachine")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("bfc0f1d7-9d91-4bc5-80de-bc97741a1520")]
+[assembly: Guid("fe34bbd5-b64a-471e-b0bd-2e17f6d56e78")]
 
 // Version information for an assembly consists of the following four values:
 //

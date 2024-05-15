@@ -1,36 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
 
-
-namespace OrderProcessing
+namespace OrderLibrary
 {
-    public enum OrderStatus
-    {
-        Pending,
-        Processing,
-        Completed,
-        Cancelled
-    }
 
-    public class Order
-    {
-        public int Id { get; set; }
-        public List<MenuItem> Menu { get; set; }
-        public string Description { get; set; }
-        public OrderStatus Status { get; set; }
 
-        public Order(int idOrder, List<MenuItem> menu, string description)
-        {
-            Id = idOrder;
-            Menu = menu;
-            Description = description;
-            Status = OrderStatus.Pending;
-        }
-    }
-
-    public class OrderProcessor<T> where T : Order
+    public class OrderProcessor<T> where T : OrderIn
     {
         private List<T> orders = new List<T>();
         private int nextId = 1;
@@ -67,12 +43,15 @@ namespace OrderProcessing
             return orders.Where(o => o.Status == OrderStatus.Pending || o.Status == OrderStatus.Processing).ToList();
         }
 
-        public void UpdateOrderStatus(int id, OrderStatus newStatus)
+        public void UpdateOrderStatus(int id, OrderEvent orderEvent)
         {
             var order = orders.Find(o => o.Id == id);
             if (order != null)
             {
-                order.Status = newStatus;
+                if (!order.ApplyEvent(orderEvent))
+                {
+                    Console.WriteLine($"Transisi status tidak valid untuk pesanan dengan ID {id}. Status saat ini: {order.Status}");
+                }
             }
             else
             {
@@ -82,6 +61,7 @@ namespace OrderProcessing
 
         public void DisplayOrders()
         {
+            Console.WriteLine("===============");
             Console.WriteLine("Daftar Pesanan:");
             foreach (var order in orders)
             {
@@ -94,6 +74,7 @@ namespace OrderProcessing
             }
         }
     }
+
 
     public class MenuItem
     {
