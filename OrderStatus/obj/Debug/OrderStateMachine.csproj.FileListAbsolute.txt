@@ -1,0 +1,13 @@
+D:\C# Project\TUBESKPL_KELOMPOK4\OrderStatus\bin\Debug\OrderStatus.exe.config
+D:\C# Project\TUBESKPL_KELOMPOK4\OrderStatus\bin\Debug\OrderStatus.exe
+D:\C# Project\TUBESKPL_KELOMPOK4\OrderStatus\bin\Debug\OrderStatus.pdb
+D:\C# Project\TUBESKPL_KELOMPOK4\OrderStatus\obj\Debug\OrderStateMachine.csproj.AssemblyReference.cache
+D:\C# Project\TUBESKPL_KELOMPOK4\OrderStatus\obj\Debug\OrderStateMachine.csproj.CoreCompileInputs.cache
+D:\C# Project\TUBESKPL_KELOMPOK4\OrderStatus\obj\Debug\OrderStatus.exe
+D:\C# Project\TUBESKPL_KELOMPOK4\OrderStatus\obj\Debug\OrderStatus.pdb
+D:\C# Project\TUBESKPL_KELOMPOK4\OrderStatus\bin\Debug\OrderProcessing.dll
+D:\C# Project\TUBESKPL_KELOMPOK4\OrderStatus\bin\Debug\OrderProcessing.pdb
+D:\C# Project\TUBESKPL_KELOMPOK4\OrderStatus\obj\Debug\OrderSta.4C090DD4.Up2Date
+D:\C# Project\TUBESKPL_KELOMPOK4\OrderStatus\bin\Debug\MenuManager.exe
+D:\C# Project\TUBESKPL_KELOMPOK4\OrderStatus\bin\Debug\MenuManager.pdb
+D:\C# Project\TUBESKPL_KELOMPOK4\OrderStatus\bin\Debug\MenuManager.exe.config

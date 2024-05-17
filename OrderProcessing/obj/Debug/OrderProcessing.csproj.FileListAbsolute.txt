@@ -1,0 +1,6 @@
+D:\C# Project\TUBESKPL_KELOMPOK4\OrderProcessing\bin\Debug\OrderProcessing.dll
+D:\C# Project\TUBESKPL_KELOMPOK4\OrderProcessing\bin\Debug\OrderProcessing.pdb
+D:\C# Project\TUBESKPL_KELOMPOK4\OrderProcessing\obj\Debug\OrderProcessing.csproj.AssemblyReference.cache
+D:\C# Project\TUBESKPL_KELOMPOK4\OrderProcessing\obj\Debug\OrderProcessing.csproj.CoreCompileInputs.cache
+D:\C# Project\TUBESKPL_KELOMPOK4\OrderProcessing\obj\Debug\OrderProcessing.dll
+D:\C# Project\TUBESKPL_KELOMPOK4\OrderProcessing\obj\Debug\OrderProcessing.pdb
