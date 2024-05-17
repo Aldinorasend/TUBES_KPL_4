@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Telkom University\\KPL\\TUBES\\ManajemenPelanggan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{239041E1-FE71-48EB-8D16-6213085E9F74}|ManajemenPelanggan\\ManajemenPelanggan.csproj|c:\\telkom university\\kpl\\tubes\\manajemenpelanggan\\manajemenpelanggan\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239041E1-FE71-48EB-8D16-6213085E9F74}|ManajemenPelanggan\\ManajemenPelanggan.csproj|solutionrelative:manajemenpelanggan\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239041E1-FE71-48EB-8D16-6213085E9F74}|ManajemenPelanggan\\ManajemenPelanggan.csproj|C:\\Telkom University\\KPL\\TUBES\\ManajemenPelanggan\\manajemenpelanggan\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239041E1-FE71-48EB-8D16-6213085E9F74}|ManajemenPelanggan\\ManajemenPelanggan.csproj|solutionrelative:manajemenpelanggan\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239041E1-FE71-48EB-8D16-6213085E9F74}|ManajemenPelanggan\\ManajemenPelanggan.csproj|C:\\Telkom University\\KPL\\TUBES\\ManajemenPelanggan\\manajemenpelanggan\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239041E1-FE71-48EB-8D16-6213085E9F74}|ManajemenPelanggan\\ManajemenPelanggan.csproj|solutionrelative:manajemenpelanggan\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239041E1-FE71-48EB-8D16-6213085E9F74}|ManajemenPelanggan\\ManajemenPelanggan.csproj|C:\\Telkom University\\KPL\\TUBES\\ManajemenPelanggan\\manajemenpelanggan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239041E1-FE71-48EB-8D16-6213085E9F74}|ManajemenPelanggan\\ManajemenPelanggan.csproj|solutionrelative:manajemenpelanggan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239041E1-FE71-48EB-8D16-6213085E9F74}|ManajemenPelanggan\\ManajemenPelanggan.csproj|C:\\Telkom University\\KPL\\TUBES\\ManajemenPelanggan\\manajemenpelanggan\\data\\customers.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{239041E1-FE71-48EB-8D16-6213085E9F74}|ManajemenPelanggan\\ManajemenPelanggan.csproj|solutionrelative:manajemenpelanggan\\data\\customers.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239041E1-FE71-48EB-8D16-6213085E9F74}|ManajemenPelanggan\\ManajemenPelanggan.csproj|C:\\Telkom University\\KPL\\TUBES\\ManajemenPelanggan\\manajemenpelanggan\\manajemenpelanggan.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{239041E1-FE71-48EB-8D16-6213085E9F74}|ManajemenPelanggan\\ManajemenPelanggan.csproj|solutionrelative:manajemenpelanggan\\manajemenpelanggan.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Telkom University\\KPL\\TUBES\\ManajemenPelanggan\\ManajemenPelanggan\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "ManajemenPelanggan\\Models\\Customer.cs",
+              "ToolTip": "C:\\Telkom University\\KPL\\TUBES\\ManajemenPelanggan\\ManajemenPelanggan\\Models\\Customer.cs",
+              "RelativeToolTip": "ManajemenPelanggan\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T01:28:25.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Telkom University\\KPL\\TUBES\\ManajemenPelanggan\\ManajemenPelanggan\\Program.cs",
+              "RelativeDocumentMoniker": "ManajemenPelanggan\\Program.cs",
+              "ToolTip": "C:\\Telkom University\\KPL\\TUBES\\ManajemenPelanggan\\ManajemenPelanggan\\Program.cs",
+              "RelativeToolTip": "ManajemenPelanggan\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T02:20:32.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Telkom University\\KPL\\TUBES\\ManajemenPelanggan\\ManajemenPelanggan\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "ManajemenPelanggan\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Telkom University\\KPL\\TUBES\\ManajemenPelanggan\\ManajemenPelanggan\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "ManajemenPelanggan\\Controllers\\CustomersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T01:31:31.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Telkom University\\KPL\\TUBES\\ManajemenPelanggan\\ManajemenPelanggan\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "ManajemenPelanggan\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Telkom University\\KPL\\TUBES\\ManajemenPelanggan\\ManajemenPelanggan\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "ManajemenPelanggan\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T01:29:24.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "customers.json",
+              "DocumentMoniker": "C:\\Telkom University\\KPL\\TUBES\\ManajemenPelanggan\\ManajemenPelanggan\\Data\\customers.json",
+              "RelativeDocumentMoniker": "ManajemenPelanggan\\Data\\customers.json",
+              "ToolTip": "C:\\Telkom University\\KPL\\TUBES\\ManajemenPelanggan\\ManajemenPelanggan\\Data\\customers.json",
+              "RelativeToolTip": "ManajemenPelanggan\\Data\\customers.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-16T01:42:32.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManajemenPelanggan",
+              "DocumentMoniker": "C:\\Telkom University\\KPL\\TUBES\\ManajemenPelanggan\\ManajemenPelanggan\\ManajemenPelanggan.csproj",
+              "RelativeDocumentMoniker": "ManajemenPelanggan\\ManajemenPelanggan.csproj",
+              "ToolTip": "C:\\Telkom University\\KPL\\TUBES\\ManajemenPelanggan\\ManajemenPelanggan\\ManajemenPelanggan.csproj",
+              "RelativeToolTip": "ManajemenPelanggan\\ManajemenPelanggan.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-16T01:27:44.28Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
