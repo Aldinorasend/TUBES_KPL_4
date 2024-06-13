@@ -8,3 +8,10 @@ D:\C# Project\TUBESKPL_KELOMPOK4\MenuManager\obj\Debug\MenuManager.pdb
 D:\C# Project\TUBESKPL_KELOMPOK4\MenuManager\bin\Debug\OrderProcessing.dll
 D:\C# Project\TUBESKPL_KELOMPOK4\MenuManager\bin\Debug\OrderProcessing.pdb
 D:\C# Project\TUBESKPL_KELOMPOK4\MenuManager\obj\Debug\MenuMana.BB8531A5.Up2Date
+C:\Users\harit\OneDrive\Documents\TEL-U SEM 4\Tubes KPL\TUBES_KPL_4\MenuManager\bin\Debug\MenuManager.exe.config
+C:\Users\harit\OneDrive\Documents\TEL-U SEM 4\Tubes KPL\TUBES_KPL_4\MenuManager\bin\Debug\MenuManager.exe
+C:\Users\harit\OneDrive\Documents\TEL-U SEM 4\Tubes KPL\TUBES_KPL_4\MenuManager\bin\Debug\MenuManager.pdb
+C:\Users\harit\OneDrive\Documents\TEL-U SEM 4\Tubes KPL\TUBES_KPL_4\MenuManager\obj\Debug\MenuManager.csproj.AssemblyReference.cache
+C:\Users\harit\OneDrive\Documents\TEL-U SEM 4\Tubes KPL\TUBES_KPL_4\MenuManager\obj\Debug\MenuManager.csproj.CoreCompileInputs.cache
+C:\Users\harit\OneDrive\Documents\TEL-U SEM 4\Tubes KPL\TUBES_KPL_4\MenuManager\obj\Debug\MenuManager.exe
+C:\Users\harit\OneDrive\Documents\TEL-U SEM 4\Tubes KPL\TUBES_KPL_4\MenuManager\obj\Debug\MenuManager.pdb

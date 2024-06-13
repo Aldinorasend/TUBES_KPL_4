@@ -1,0 +1,6 @@
+C:\Users\harit\OneDrive\Documents\TEL-U SEM 4\Tubes KPL\TUBES_KPL_4\OrderLibrary\bin\Debug\OrderLibrary.dll
+C:\Users\harit\OneDrive\Documents\TEL-U SEM 4\Tubes KPL\TUBES_KPL_4\OrderLibrary\bin\Debug\OrderLibrary.pdb
+C:\Users\harit\OneDrive\Documents\TEL-U SEM 4\Tubes KPL\TUBES_KPL_4\OrderLibrary\obj\Debug\OrderLibrary.csproj.AssemblyReference.cache
+C:\Users\harit\OneDrive\Documents\TEL-U SEM 4\Tubes KPL\TUBES_KPL_4\OrderLibrary\obj\Debug\OrderLibrary.csproj.CoreCompileInputs.cache
+C:\Users\harit\OneDrive\Documents\TEL-U SEM 4\Tubes KPL\TUBES_KPL_4\OrderLibrary\obj\Debug\OrderLibrary.dll
+C:\Users\harit\OneDrive\Documents\TEL-U SEM 4\Tubes KPL\TUBES_KPL_4\OrderLibrary\obj\Debug\OrderLibrary.pdb
